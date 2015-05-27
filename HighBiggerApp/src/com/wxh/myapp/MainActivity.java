@@ -32,6 +32,7 @@ public class MainActivity extends Activity {
 				JSONObject data = new JSONObject();
 				try {
 					data.put("name", "wxh");
+					data.put("name", "wxh");
 				} catch (JSONException e1) {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
